@@ -1,0 +1,3 @@
+﻿  Hannoi_main.c
+c:\users\pc\source\repos\plab subjcet 10\10acm\hannoi_main.c(33): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  10ACM.vcxproj -> C:\Users\pc\source\repos\plab subjcet 10\Debug\10ACM.exe
